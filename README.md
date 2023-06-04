@@ -1,4 +1,4 @@
-## Data Science from Yandex.Praktikum
+## Data Science @ Yandex.Praktikum
 В этом репозитории собраны мои учебные проекты из курса "Специалист по Data Science" Яндекс.Практикума
 
 ### Содержание: 
